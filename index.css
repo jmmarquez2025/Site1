@@ -1180,5 +1180,11 @@
   min-height: 222px;
   background-position: 50% 50%;
 }.u-section-9 .u-sheet-1 {
-  min-height: 400px;
+  min-height: 100px;
+}
+.eb-garamond-<jmm-regular> {
+  font-family: "EB Garamond", serif;
+  font-optical-sizing: auto;
+  font-weight: <600>;
+  font-style: normal;
 }
